@@ -1,2 +1,1 @@
-# Python
- Projetos em Python
+Programa que automatiza o método de estudos conhecido como Pomodoro.

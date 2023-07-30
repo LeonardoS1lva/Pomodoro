@@ -1,1 +1,0 @@
-Programa que automatiza o método de estudos conhecido como Pomodoro.
